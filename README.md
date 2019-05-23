@@ -1,2 +1,1 @@
-# learn-python
-Python学习练习小程序
+# learn_python
